@@ -7,7 +7,7 @@
       <div class="container">
         <div class="banner__header">
           <h1 class="partner__title">
-            Реферальная программа <span>StatPay</span>
+            Реферальная программа <span>Bitratex</span>
           </h1>
           <h3>
             Добро пожаловать в нашу партнерскую программу. Выберите подходящий
@@ -90,7 +90,7 @@
             <img class="lazy" src="/testcom/images/main-page/03.svg" />
           </div>
           <div class="how-it-works-text">
-            Пригласите новых пользователей к обмену с StatPay и получайте от
+            Пригласите новых пользователей к обмену с Bitratex и получайте от
             40% до 60% от нашей комиссии(в зависимости от объема обменов)
           </div>
         </div>
@@ -125,7 +125,7 @@
       <h3 class="api-title">Свяжитесь с нами, чтобы стать партнером</h3>
       <div class="api-link display-flex">
 
-        <a href="https://t.me/statpay_io">
+        <a href="https://t.me/bitratex_support">
           <img class="lazy" src="/testcom/images/api/tg.png" />
         </a>
       </div>

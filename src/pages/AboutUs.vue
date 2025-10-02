@@ -6,13 +6,13 @@ import MainLayout from "@/components/Layout/MainLayout.vue";
     <div class="banner banner_blog">
       <div class="container">
         <div class="banner__header">
-          <h1 class="banner__title">Что такое StatPay?</h1>
+          <h1 class="banner__title">Что такое Bitratex?</h1>
         </div>
       </div>
     </div>
 
     <section class="container docs-text">
-      <p class="docs-p"><strong>StatPay</strong> — это постоянно развивающаяся платформа для обмена криптовалюты.</p>
+      <p class="docs-p"><strong>Bitratex</strong> — это постоянно развивающаяся платформа для обмена криптовалюты.</p>
 
       <h4 class="docs-p docs-h"><strong>Наша миссия</strong></h4>
       <p class="docs-p">Наша миссия — дать возможность миллионам пользователей по всему миру свободно, анонимно и, самое главное, безопасно обменивать свои криптоактивы в любом объеме. Платформа полностью автоматическая, где в пару кликов можно обменять 400 направлений по максимально выгодному курсу.</p>
