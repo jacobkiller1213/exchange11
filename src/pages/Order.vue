@@ -590,13 +590,7 @@ onUnmounted(() => {
               </div>
 
               <div class="order__detail-text display-flex">
-                <div v-if="exchangeRate">
-                  <span>Обменный курс: </span>
-                  <span class="details__rate" id="details__rate">
-                  1 {{ orderData.currency_from }} ~ {{ orderData.currency_to }}
-                  {{ calculatedRate }}</span
-                >
-                </div>
+
                 <div>
                   <span>Ожидаемая длительность обмена: </span>~ 5-30 минут
                 </div>
