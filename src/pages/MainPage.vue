@@ -436,7 +436,7 @@ onMounted(async () => {
               </div>
               <div class="how-it-works-text">
                 Немного расслабьтесь, пока мы обрабатываем транзакцию.
-                StatPay находит лучший курс для обмена, быстро конвертирует
+                NeonChain находит лучший курс для обмена, быстро конвертирует
                 вашу криптовалюту и безопасно отправляет ее на адрес вашего
                 кошелька за несколько минут.
               </div>
@@ -450,13 +450,13 @@ onMounted(async () => {
       >
         <div class="container">
           <div class="cashback">
-            <h3 class="promo__title">Зарабатывайте с StatPay</h3>
+            <h3 class="promo__title">Зарабатывайте с NeonChain</h3>
             <div class="cashback-text">
               <h4><strong>Партнерская программа</strong></h4>
               <p>
                 Присоединяйтесь к нашей партнерской программе и начните
                 зарабатывать с каждого привлеченного пользователя до 50% от
-                комиссии StatPay.
+                комиссии NeonChain.
               </p>
               <h4><strong>API</strong></h4>
               <p>
@@ -618,7 +618,7 @@ onMounted(async () => {
       </section>
       <section class="faq page-block background-gray mobile-background-black">
         <div class="container">
-          <h3 class="promo__title">Часто Задаваемые Вопросы о StatPay</h3>
+          <h3 class="promo__title">Часто Задаваемые Вопросы о NeonChain</h3>
           <div class="underline"></div>
           <div class="row faq-items">
 

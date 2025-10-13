@@ -473,7 +473,7 @@ onUnmounted(() => {
                         <h3>💬 Поддержка</h3>
                         <p>
                           Остались вопросы? Наша служба поддержки работает с 10:00 до 22:00 по московскому времени.
-                          Свяжитесь с нами в <a href="https://t.me/statpay_io" style="color: #10b981 !important;" target="_blank">Telegram</a>.
+                          Свяжитесь с нами в <a href="https://t.me/ NeonChain_io" style="color: #10b981 !important;" target="_blank">Telegram</a>.
                         </p>
                       </div>
                     </div>
@@ -604,8 +604,8 @@ onUnmounted(() => {
                 <div>
                   Если у вас есть какие-либо вопросы, пожалуйста, свяжитесь с
                   нашей службой поддержки:
-                  <a class="support-link" href="https://t.me/statpay_io">
-                    @statpay_io
+                  <a class="support-link" href="https://t.me/ NeonChain_io">
+                    @ NeonChain_io
                   </a>
                 </div>
               </div>

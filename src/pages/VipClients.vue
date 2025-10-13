@@ -62,7 +62,7 @@ function updateValue(value) {
     <div class="banner partners_blog">
       <div class="container">
         <div class="banner__header">
-          <h1 class="partner__title">VIP клиентам <span>StatPay</span></h1>
+          <h1 class="partner__title">VIP клиентам <span> NeonChain</span></h1>
           <h3>
             Если вы меняете крупные суммы, мы готовы предложить вам особые
             условия.
@@ -77,7 +77,7 @@ function updateValue(value) {
             href="/coincraddle-api"
             class="menu-link"
           >
-            API StatPay
+            API NeonChain
           </a>
           <a href="/for-partners" class="menu-link">
             Партнерская программа
@@ -174,7 +174,7 @@ function updateValue(value) {
       <div class="api-link display-flex">
 
         <a
-          href="https://t.me/statpay_io"
+          href="https://t.me/ NeonChain_io"
         >
           <img
             class="lazy entered loaded"

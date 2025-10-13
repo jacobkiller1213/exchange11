@@ -19,16 +19,16 @@ onMounted(() => {
       <div class="header__blocks">
         <div class="header__block">
           <div class="logo">
-            <a class="logo__link" href="/" title="StatPay">
+            <a class="logo__link" href="/" title=" NeonChain">
               <img
                 class="logo__pic "
                 src="/testcom/images/logo.svg"
-                alt="StatPay"
+                alt=" NeonChain"
 
               />
 
 
-              StatPay
+              NeonChain
             </a>
           </div>
         </div>
@@ -45,13 +45,13 @@ onMounted(() => {
             <nav>
 
               <div class="menu__logo">
-                <a class="logo__link" href="/" title="StatPay">
+                <a class="logo__link" href="/" title=" NeonChain">
                   <img
                     class="logo__pic"
                     src="/testcom/images/logo-mobile.svg"
-                    alt="StatPay"
+                    alt=" NeonChain"
                   />
-                  StatPay
+                  NeonChain
                 </a>
               </div>
               <div class="menu__main__select">

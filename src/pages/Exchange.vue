@@ -688,8 +688,8 @@ onMounted(async () => {
               <div>
                 Если у вас есть какие-либо вопросы, пожалуйста, свяжитесь с
                 нашей службой поддержки:
-                <a class="support-link" href="https://t.me/statpay_io"
-                  >@statpay_io</a
+                <a class="support-link" href="https://t.me/ NeonChain_io"
+                  >@ NeonChain_io</a
                 >
               </div>
             </div>

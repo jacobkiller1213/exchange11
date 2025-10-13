@@ -7,7 +7,7 @@
         <div class="footer-content-head display-flex">
           <div class="footer-logo-block" style="position: relative">
             <div class="footer__logo">
-              <a href="/" title="StatPay">
+              <a href="/" title=" NeonChain">
                 <img
                   class="hidden-xs hidden-sm"
                   src="/testcom/images/logo.svg"
@@ -16,7 +16,7 @@
                   class="hidden-md hidden-xl hidden-lg"
                   src="/testcom/images/logo.svg"
                 />
-                StatPay
+                NeonChain
               </a>
             </div>
             <div class="footer__promo">
@@ -80,7 +80,7 @@
 
                 <li class="footer__item">
                   <a
-                    href="https://t.me/statpay_io"
+                    href="https://t.me/ NeonChain_io"
                     rel="nofollow noopener"
                     class="footer__link"
                     >Telegram поддержка</a
@@ -88,7 +88,7 @@
                 </li>
                 <li class="footer__item">
                   <a
-                    href="https://t.me/statpay_io"
+                    href="https://t.me/ NeonChain_io"
                     rel="nofollow noopener"
                     class="footer__link"
                     >Telegram партнерам</a
@@ -122,7 +122,7 @@
       </div>
 
       <div class="footer__copyright">
-        <div>StatPay © 2025</div>
+        <div> NeonChain © 2025</div>
       </div>
     </div>
   </footer>
